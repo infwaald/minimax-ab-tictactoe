@@ -1,0 +1,15 @@
+Реалізуйте гру хрестики-нулики. З варіанти ШІ:
+1. випадкові ходи
+2. ходи за алгоритмом мінімаксу
+3. ходи за алгоритмом альфа бета відтинання
+Зробіть порівння.
+
+To-do:
+  DONE  1. Option for both AIs to play the same algorithm
+          - add duplicate files for each player(?)
+          - conditional scores variable (current player:10, enemy: -10)
+  DONE  2. Selection menu for algorithms
+3. State which AI wins in the end
+4. Add color
+
+If option 2 is not possible describe how to edit the code to see wtf is going on
