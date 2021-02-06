@@ -13,7 +13,6 @@ function setup() {
   frameRate(20); 
   label3 = createP('');
   label3.style('color','#888').position(10, height-5);
-  label3.html('Made by Vlada Nakonechna, KA-77, IASA, 2020');
   //creating options for AIs
   //AI1 (X)
   label1 = createP('');
