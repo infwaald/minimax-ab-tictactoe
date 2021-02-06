@@ -6,7 +6,8 @@ Make a game of Tic Tac Toe. 3 variants of AI:
 1. Random moves
 2. Moves using minimax algorithm
 3. Moves using alpha-beta pruning algorithm
-Compare.
+
+Compare them.
 # How to use
 Choose an option for each player and spam *Next Turn* to see what each one does. Press *Play again* to reset the board
 # Resources 
